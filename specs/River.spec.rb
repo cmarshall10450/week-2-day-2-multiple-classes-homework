@@ -1,0 +1,16 @@
+require('minitest/autorun')
+require_relative('../River')
+require_relative('../Fish')
+
+class TestRiver < MiniTest::Test
+
+	def setup
+		@fish = Fish.new('Blinky')
+		@river = River.new('Forth', [@fish])
+	end
+
+	def test_get_river_name
+		assert_equal('Forth', @river.name)
+	end
+
+end
