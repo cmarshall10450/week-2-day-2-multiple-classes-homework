@@ -12,5 +12,9 @@ class TestRiver < MiniTest::Test
 	def test_get_river_name
 		assert_equal('Forth', @river.name)
 	end
+	
+	def test_get_fish_in_river
+		assert_equal([@fish], @river.fish)
+	end
 
 end
