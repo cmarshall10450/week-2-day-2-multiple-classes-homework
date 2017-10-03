@@ -12,4 +12,8 @@ class Bear
 		@stomach.push(fish)
 	end
 
+	def roar
+		return 'Roar!'
+	end
+
 end
