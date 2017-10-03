@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc2e4fb-e350-472f-b4ad-8cbb48894066" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/River.spec.rb" afterPath="$PROJECT_DIR$/specs/River.spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bear.rb" afterPath="$PROJECT_DIR$/Bear.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/Bear.spec.rb" afterPath="$PROJECT_DIR$/specs/Bear.spec.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Bear.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Bear.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bear.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="576">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -62,17 +63,17 @@
       <file leaf-file-name="Bear.spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/specs/Bear.spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="638">
+              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="River.spec.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="River.spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/specs/River.spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="542">
               <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding />
             </state>
@@ -98,12 +99,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/specs/Bear.spec.rb" />
-        <option value="$PROJECT_DIR$/Bear.rb" />
         <option value="$PROJECT_DIR$/specs/Fish.spec.rb" />
         <option value="$PROJECT_DIR$/Fish.rb" />
         <option value="$PROJECT_DIR$/River.rb" />
         <option value="$PROJECT_DIR$/specs/River.spec.rb" />
+        <option value="$PROJECT_DIR$/specs/Bear.spec.rb" />
+        <option value="$PROJECT_DIR$/Bear.rb" />
       </list>
     </option>
   </component>
@@ -157,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/specs/River.spec.rb&#10;ri&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/specs/River.spec.rb&#10;fi&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/Fish.rb&#10;be&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/Bear.rb" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/Bear.rb&#10;ri&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/specs/River.spec.rb&#10;fi&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/Fish.rb&#10;be&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-02/day-02/Bear.rb" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507043171907</updated>
-      <workItem from="1507043173229" duration="1011000" />
+      <workItem from="1507043173229" duration="1452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1011000" />
+    <option name="totallyTimeSpent" value="1452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="0" />
@@ -231,22 +232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bear.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/Bear.spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/specs/Fish.spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -273,8 +258,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/River.spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="542">
           <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/Bear.spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bear.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
